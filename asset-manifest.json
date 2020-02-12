@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/amirobot/static/css/main.a5e294eb.chunk.css",
-    "main.js": "/amirobot/static/js/main.2d457d37.chunk.js",
-    "main.js.map": "/amirobot/static/js/main.2d457d37.chunk.js.map",
-    "runtime~main.js": "/amirobot/static/js/runtime~main.71351b2e.js",
-    "runtime~main.js.map": "/amirobot/static/js/runtime~main.71351b2e.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/amirobot/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.52f690f9.chunk.js": "/amirobot/static/js/2.52f690f9.chunk.js",
-    "static/js/2.52f690f9.chunk.js.map": "/amirobot/static/js/2.52f690f9.chunk.js.map",
+    "main.css": "/amirobot/static/css/main.32c79003.chunk.css",
+    "main.js": "/amirobot/static/js/main.cc733914.chunk.js",
+    "main.js.map": "/amirobot/static/js/main.cc733914.chunk.js.map",
+    "runtime-main.js": "/amirobot/static/js/runtime-main.a12d862d.js",
+    "runtime-main.js.map": "/amirobot/static/js/runtime-main.a12d862d.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/amirobot/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js": "/amirobot/static/js/2.a5747d58.chunk.js",
+    "static/js/2.a5747d58.chunk.js.map": "/amirobot/static/js/2.a5747d58.chunk.js.map",
     "index.html": "/amirobot/index.html",
-    "precache-manifest.657a831fc451cc7501f46439233ada53.js": "/amirobot/precache-manifest.657a831fc451cc7501f46439233ada53.js",
+    "precache-manifest.a029b2901f87eb9cca995184574a5d5f.js": "/amirobot/precache-manifest.a029b2901f87eb9cca995184574a5d5f.js",
     "service-worker.js": "/amirobot/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/amirobot/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.a5e294eb.chunk.css.map": "/amirobot/static/css/main.a5e294eb.chunk.css.map",
+    "static/css/2.eb45ad44.chunk.css.map": "/amirobot/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.32c79003.chunk.css.map": "/amirobot/static/css/main.32c79003.chunk.css.map",
+    "static/js/2.a5747d58.chunk.js.LICENSE": "/amirobot/static/js/2.a5747d58.chunk.js.LICENSE",
     "static/media/App.css": "/amirobot/static/media/SEGA.12a3db8b.woff"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a12d862d.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js",
+    "static/css/main.32c79003.chunk.css",
+    "static/js/main.cc733914.chunk.js"
+  ]
 }
