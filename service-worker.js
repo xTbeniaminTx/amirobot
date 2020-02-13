@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amirobot/precache-manifest.45e9841c758df055f97a7408d2f22f24.js"
+  "/amirobot/precache-manifest.dfe0ecb0a9264225537052c5c62ea84f.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amirobot/static/css/main.32c79003.chunk.css",
-    "main.js": "/amirobot/static/js/main.881e3c15.chunk.js",
-    "main.js.map": "/amirobot/static/js/main.881e3c15.chunk.js.map",
+    "main.js": "/amirobot/static/js/main.8eb7c0c8.chunk.js",
+    "main.js.map": "/amirobot/static/js/main.8eb7c0c8.chunk.js.map",
     "runtime-main.js": "/amirobot/static/js/runtime-main.a12d862d.js",
     "runtime-main.js.map": "/amirobot/static/js/runtime-main.a12d862d.js.map",
     "static/css/2.eb45ad44.chunk.css": "/amirobot/static/css/2.eb45ad44.chunk.css",
     "static/js/2.4b6b2329.chunk.js": "/amirobot/static/js/2.4b6b2329.chunk.js",
     "static/js/2.4b6b2329.chunk.js.map": "/amirobot/static/js/2.4b6b2329.chunk.js.map",
     "index.html": "/amirobot/index.html",
-    "precache-manifest.45e9841c758df055f97a7408d2f22f24.js": "/amirobot/precache-manifest.45e9841c758df055f97a7408d2f22f24.js",
+    "precache-manifest.dfe0ecb0a9264225537052c5c62ea84f.js": "/amirobot/precache-manifest.dfe0ecb0a9264225537052c5c62ea84f.js",
     "service-worker.js": "/amirobot/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/amirobot/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.32c79003.chunk.css.map": "/amirobot/static/css/main.32c79003.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.4b6b2329.chunk.js",
     "static/css/main.32c79003.chunk.css",
-    "static/js/main.881e3c15.chunk.js"
+    "static/js/main.8eb7c0c8.chunk.js"
   ]
 }

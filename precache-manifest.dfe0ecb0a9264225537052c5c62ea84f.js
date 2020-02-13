@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c16e06f277d40e78e2832fd0833ed0d3",
+    "revision": "840c49f9b344fead59ab27f15bc5a5c4",
     "url": "/amirobot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amirobot/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "b78c02d3f068e24a4971",
+    "revision": "f13a39f20f0f1a348cb9",
     "url": "/amirobot/static/css/main.32c79003.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amirobot/static/js/2.4b6b2329.chunk.js.LICENSE"
   },
   {
-    "revision": "b78c02d3f068e24a4971",
-    "url": "/amirobot/static/js/main.881e3c15.chunk.js"
+    "revision": "f13a39f20f0f1a348cb9",
+    "url": "/amirobot/static/js/main.8eb7c0c8.chunk.js"
   },
   {
     "revision": "02c479790236138121d5",
