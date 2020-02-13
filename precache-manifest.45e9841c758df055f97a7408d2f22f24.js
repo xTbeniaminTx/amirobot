@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c56d70712d90a8c804d53de0561ab54",
+    "revision": "c16e06f277d40e78e2832fd0833ed0d3",
     "url": "/amirobot/index.html"
   },
   {
-    "revision": "eabd1a8b852b8b505d0b",
+    "revision": "10b3190f9b0b7b614b87",
     "url": "/amirobot/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "0ca3e7aeca89b967d503",
+    "revision": "b78c02d3f068e24a4971",
     "url": "/amirobot/static/css/main.32c79003.chunk.css"
   },
   {
-    "revision": "eabd1a8b852b8b505d0b",
-    "url": "/amirobot/static/js/2.a5747d58.chunk.js"
+    "revision": "10b3190f9b0b7b614b87",
+    "url": "/amirobot/static/js/2.4b6b2329.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/amirobot/static/js/2.a5747d58.chunk.js.LICENSE"
+    "url": "/amirobot/static/js/2.4b6b2329.chunk.js.LICENSE"
   },
   {
-    "revision": "0ca3e7aeca89b967d503",
-    "url": "/amirobot/static/js/main.cc733914.chunk.js"
+    "revision": "b78c02d3f068e24a4971",
+    "url": "/amirobot/static/js/main.881e3c15.chunk.js"
   },
   {
     "revision": "02c479790236138121d5",
